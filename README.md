@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection-Using-Face-Recognition
 
-This is a Credit Card Fraud Detection using Deep Learning and Face Recognition which makes sure extra safety for users when doing online transactions at ATM which functions as a two step verification in the ATM.
+This is a Credit Card Fraud Detection using Face Recognition which makes sure extra safety for users when doing online transactions at ATM which functions as a two step verification in the ATM.
 
 # Features Added
 
